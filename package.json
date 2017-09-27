@@ -1,0 +1,33 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "Number Formatter based on a tutorial for creating an npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efx-mxg312/number-formatter.git"
+  },
+  "keywords": [
+    "number",
+    "formatter",
+    "npm",
+    "tutorial",
+    "package"
+  ],
+  "author": "Mitchell Griest <mitchell.griest@equifax.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efx-mxg312/number-formatter/issues"
+  },
+  "homepage": "https://github.com/efx-mxg312/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
