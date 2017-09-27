@@ -1,6 +1,6 @@
 {
   "name": "mxg312-number-formatter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Number Formatter based on a tutorial for creating an npm package",
   "main": "index.js",
   "scripts": {
