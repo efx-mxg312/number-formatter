@@ -7,7 +7,7 @@ Created following a [tutorial](https://medium.com/@jdaudier/how-to-create-and-pu
 ## Installation
 
 ```js
-npm install @mxg312/number-formatter
+npm i mxg312-number-formatter
 ```
 
 ## Usage
